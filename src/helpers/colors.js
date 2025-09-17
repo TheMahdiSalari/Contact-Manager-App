@@ -1,0 +1,21 @@
+
+export const BACKGROUND = "#1a2332";
+export const FOREGROUND = "#a4b1cd";
+export const BLACK = "#000000";
+export const BRIGHTBLACK = "#666666";
+export const WHITE = "#ffffff";
+export const BRIGHTWHITE = "#ffffff";
+export const RED = "#ff3e3e";
+export const BRIGHTRED = "#ff8484";
+export const GREEN = "#9fef00";
+export const YELLOW = "#ffaf00";
+export const BRIGHTYELLOW = "#ffcc5c";
+export const BLUE = "#004cff";
+export const BRIGHTBLUE = "#5cb2ff";
+export const PURPLE = "#9f00ff";
+export const BRIGHTPURPLE = "#c16cfa";
+export const CYAN = "#2ee7b6";
+export const BRIGHTCYAN = "#5cecc6";
+export const SELECTIONBACKGROUNAD = "#313f55";
+export const CuRSORCOLOR = "#313f55";
+export const BRIGHTGREEN = "#c5f467";
