@@ -1,5 +1,5 @@
 import React from 'react'
-import {BACKGROUND , SELECTIONBACKGROUNAD, GREEN , BRIGHTBLUE, BRIGHTRED, BRIGHTYELLOW} from '../helpers/colors'
+import {BACKGROUND , SELECTIONBACKGROUNAD, GREEN , BRIGHTBLUE, BRIGHTRED, BRIGHTYELLOW} from '../../helpers/colors'
 export default function Contact() {
   return (
     <section className='container'>

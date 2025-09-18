@@ -1,7 +1,7 @@
 
 import './App.css';
 import Navbar from './components/navbar';
-import Contacts from './components/contacts';
+import Contacts from './components/contacts/contacts';
 import { useState } from 'react';
 import React from 'react'
 

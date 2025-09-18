@@ -1,7 +1,6 @@
 import React from 'react'
-import {  BRIGHTGREEN, SELECTIONBACKGROUNAD, YELLOW } from '../helpers/colors'
-import Contact from './contact'
-import Spinner from './spinner'
+import {  BRIGHTGREEN, SELECTIONBACKGROUNAD, YELLOW } from '../../helpers/colors'
+import {Contact , EditContact , ViewContact , AddContact , SearchContact , Spinner} from '..'
 
 export default function Contacts({contacts , loading}) {
   return (
@@ -33,7 +32,7 @@ export default function Contacts({contacts , loading}) {
                         <p className='h3' style={{color: YELLOW}}>
                             Not Found!!!
                         </p>
-                        <img src={require("../assets/notFound.gif")} alt="not found" className='w-25'/>
+                        <img src={require("../../assets/notFound.gif")} alt="not found" className='w-25'/>
                     </div>
                 )
                     }

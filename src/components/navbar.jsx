@@ -1,5 +1,5 @@
 import React from 'react'
-import Searchcontact from './contacts/searchcontact'
+import SearchContact from './contacts/searchContact'
 import {BACKGROUND, GREEN, WHITE} from '../helpers/colors'
 export default function Navbar() {
   return (
@@ -16,7 +16,7 @@ export default function Navbar() {
                     </div>
                 </div>
                 <div className='col'>
-                    <Searchcontact />
+                    <SearchContact />
                 </div>
             </div>
 
