@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "fullname": "Mahdi Salari",
+      "photo": "",
+      "mobile": "09112334455",
+      "email": "m@gmail.com",
+      "job": "programmer",
+      "group": "1",
+      "id": 1
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "classmate"
+    },
+    {
+      "id": 2,
+      "name": "friend"
+    },
+    {
+      "id": 3,
+      "name": "family"
+    },
+    {
+      "id": 4,
+      "name": "service"
+    },
+    {
+      "id": 5,
+      "name": "bro"
+    }
+  ]
+}
